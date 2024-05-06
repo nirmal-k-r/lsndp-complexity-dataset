@@ -10,6 +10,7 @@ The model is a tuned K-Nearest Neighbors model trained on the dataset using the 
 
 ### Usage
 - The model can be imported using Pickle after importing the necessary libraries.
+- We have included a sample code in the file `prediction_tool.py` to demonstrate how the model can be used.
 - The model can also be used via our website accessible at the following link: [LSNDP Complexity categorisation tool](https://complexity.coderfaculty.com)
 
 
